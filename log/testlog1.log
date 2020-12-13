@@ -1,0 +1,498 @@
+2020-12-03 18:10:40,889 [main] INFO e-banking - URL is opened
+2020-12-03 18:10:41,173 [main] INFO e-banking - Entered username
+2020-12-03 18:10:41,379 [main] INFO e-banking - Entered Password
+2020-12-03 18:13:19,024 [main] INFO e-banking - URL is opened
+2020-12-03 18:13:19,229 [main] INFO e-banking - Entered username
+2020-12-03 18:13:19,367 [main] INFO e-banking - Entered Password
+2020-12-03 18:13:21,473 [main] INFO e-banking - Login test Passed
+2020-12-05 14:54:03,683 [main] INFO e-banking - URL is opened
+2020-12-05 14:54:05,005 [main] INFO e-banking - Entered username
+2020-12-05 14:54:05,226 [main] INFO e-banking - Entered Password
+2020-12-05 14:54:09,239 [main] INFO e-banking - URL is opened
+2020-12-05 14:54:10,631 [main] INFO e-banking - Entered username
+2020-12-05 14:54:10,886 [main] INFO e-banking - Entered Password
+2020-12-05 14:54:11,571 [main] INFO e-banking - URL is opened
+2020-12-05 14:54:12,980 [main] INFO e-banking - Entered username
+2020-12-05 14:54:13,268 [main] INFO e-banking - Entered Password
+2020-12-05 14:54:13,594 [main] INFO e-banking - URL is opened
+2020-12-05 14:54:14,445 [main] INFO e-banking - Entered username
+2020-12-05 14:54:15,302 [main] INFO e-banking - Entered Password
+2020-12-05 14:54:17,241 [main] INFO e-banking - Login test Passed
+2020-12-05 14:54:17,398 [main] INFO e-banking - URL is opened
+2020-12-05 14:54:18,002 [main] INFO e-banking - Entered username
+2020-12-05 14:54:18,159 [main] INFO e-banking - Entered Password
+2020-12-05 14:54:19,744 [main] INFO e-banking - Login test Passed
+2020-12-05 14:54:20,556 [main] INFO e-banking - URL is opened
+2020-12-05 14:54:20,924 [main] INFO e-banking - Login test Passed
+2020-12-05 14:54:23,579 [main] INFO e-banking - URL is opened
+2020-12-05 21:19:33,027 [main] INFO e-banking - URL is opened
+2020-12-05 21:19:37,542 [main] INFO e-banking - Entered username
+2020-12-05 21:19:37,956 [main] INFO e-banking - Entered Password
+2020-12-05 21:22:13,078 [main] INFO e-banking - URL is opened
+2020-12-05 21:22:13,229 [main] INFO e-banking - Entered username
+2020-12-05 21:22:13,292 [main] INFO e-banking - Entered Password
+2020-12-05 21:22:27,277 [main] INFO e-banking - URL is opened
+2020-12-05 21:22:27,428 [main] INFO e-banking - Entered username
+2020-12-05 21:22:27,491 [main] INFO e-banking - Entered Password
+2020-12-05 21:23:11,433 [main] INFO e-banking - URL is opened
+2020-12-05 21:23:12,015 [main] INFO e-banking - Entered username
+2020-12-05 21:23:12,144 [main] INFO e-banking - Entered Password
+2020-12-05 21:23:13,522 [main] INFO e-banking - Login test Passed
+2020-12-06 22:42:00,173 [main] INFO e-banking - Chrome opened
+2020-12-06 22:42:07,142 [main] INFO e-banking - URL is opened
+2020-12-06 22:42:07,576 [main] INFO e-banking - Entered username
+2020-12-06 22:42:07,710 [main] INFO e-banking - Entered Password
+2020-12-06 22:43:36,128 [main] INFO e-banking - Chrome opened
+2020-12-06 22:43:38,941 [main] INFO e-banking - URL is opened
+2020-12-06 22:43:39,130 [main] INFO e-banking - Entered username
+2020-12-06 22:43:39,308 [main] INFO e-banking - Entered Password
+2020-12-06 22:43:41,947 [main] INFO e-banking - Login test Passed
+2020-12-06 22:47:46,563 [main] INFO e-banking - Chrome opened
+2020-12-06 22:48:00,426 [main] INFO e-banking - URL is opened
+2020-12-06 22:48:00,618 [main] INFO e-banking - Entered username
+2020-12-06 22:48:00,745 [main] INFO e-banking - Entered Password
+2020-12-06 22:48:02,402 [main] INFO e-banking - Login test Passed
+2020-12-06 22:50:16,835 [main] INFO e-banking - Chrome opened
+2020-12-06 22:51:11,086 [main] INFO e-banking - URL is opened
+2020-12-06 22:53:07,561 [main] INFO e-banking - Chrome opened
+2020-12-06 22:54:15,086 [main] INFO e-banking - URL is opened
+2020-12-06 22:56:46,613 [main] INFO e-banking - Chrome opened
+2020-12-06 22:56:55,861 [main] INFO e-banking - URL is opened
+2020-12-06 22:56:56,141 [main] INFO e-banking - Entered username
+2020-12-06 22:56:56,265 [main] INFO e-banking - Entered Password
+2020-12-06 22:59:09,692 [main] INFO e-banking - Chrome opened
+2020-12-06 22:59:13,154 [main] INFO e-banking - URL is opened
+2020-12-06 22:59:13,326 [main] INFO e-banking - Entered username
+2020-12-06 22:59:13,427 [main] INFO e-banking - Entered Password
+2020-12-06 22:59:18,330 [main] INFO e-banking - Login test Passed
+2020-12-06 23:07:10,684 [main] INFO e-banking - Chrome opened
+2020-12-06 23:07:15,017 [main] INFO e-banking - URL is opened
+2020-12-06 23:07:15,212 [main] INFO e-banking - Entered username
+2020-12-06 23:07:15,357 [main] INFO e-banking - Entered Password
+2020-12-07 20:25:34,717 [main] INFO e-banking - Chrome opened
+2020-12-07 20:25:46,591 [main] INFO e-banking - URL is opened
+2020-12-07 20:25:47,370 [main] INFO e-banking - Entered username
+2020-12-07 20:25:47,484 [main] INFO e-banking - Entered Password
+2020-12-07 20:25:51,727 [main] INFO e-banking - Login test Passed
+2020-12-07 20:59:50,100 [main] INFO e-banking - Chrome opened
+2020-12-07 21:01:51,176 [main] INFO e-banking - Chrome opened
+2020-12-07 21:03:19,167 [main] INFO e-banking - Chrome opened
+2020-12-07 21:03:21,538 [main] INFO e-banking - URL is opened
+2020-12-07 21:03:22,129 [main] INFO e-banking - Entered username
+2020-12-07 21:03:22,253 [main] INFO e-banking - Entered Password
+2020-12-07 21:09:04,273 [main] INFO e-banking - Chrome opened
+2020-12-07 21:09:06,877 [main] INFO e-banking - URL is opened
+2020-12-07 21:09:07,538 [main] INFO e-banking - Entered username
+2020-12-07 21:09:07,691 [main] INFO e-banking - Entered Password
+2020-12-07 22:32:52,375 [main] INFO e-banking - Chrome opened
+2020-12-07 22:42:44,822 [main] INFO e-banking - Chrome opened
+2020-12-07 22:42:49,821 [main] INFO e-banking - URL is opened
+2020-12-07 22:42:51,850 [main] INFO e-banking - Username provided
+2020-12-07 22:42:51,967 [main] INFO e-banking - Password Provided
+2020-12-07 22:43:31,817 [main] INFO e-banking - Login Passed
+2020-12-07 22:45:52,257 [main] INFO e-banking - Chrome opened
+2020-12-07 22:45:56,812 [main] INFO e-banking - URL is opened
+2020-12-07 22:45:58,331 [main] INFO e-banking - Username provided
+2020-12-07 22:45:58,491 [main] INFO e-banking - Password Provided
+2020-12-07 22:46:04,611 [main] INFO e-banking - Username provided
+2020-12-07 22:46:04,771 [main] INFO e-banking - Password Provided
+2020-12-07 22:46:06,476 [main] INFO e-banking - Login Passed
+2020-12-07 22:48:26,599 [main] INFO e-banking - Chrome opened
+2020-12-07 22:48:30,991 [main] INFO e-banking - URL is opened
+2020-12-07 22:48:32,699 [main] INFO e-banking - Username provided
+2020-12-07 22:48:32,851 [main] INFO e-banking - Password Provided
+2020-12-07 22:48:39,060 [main] INFO e-banking - Username provided
+2020-12-07 22:48:39,275 [main] INFO e-banking - Password Provided
+2020-12-07 22:48:41,553 [main] INFO e-banking - Login Passed
+2020-12-08 19:19:23,081 [main] INFO e-banking - Chrome opened
+2020-12-08 19:19:27,739 [main] INFO e-banking - URL is opened
+2020-12-08 19:19:31,596 [main] INFO e-banking - Username provided
+2020-12-08 19:19:31,913 [main] INFO e-banking - Password Provided
+2020-12-08 19:19:37,472 [main] INFO e-banking - Username provided
+2020-12-08 19:19:37,575 [main] INFO e-banking - Password Provided
+2020-12-08 19:24:06,121 [main] INFO e-banking - Chrome opened
+2020-12-08 19:24:11,419 [main] INFO e-banking - URL is opened
+2020-12-08 19:24:14,651 [main] INFO e-banking - Username provided
+2020-12-08 19:24:14,802 [main] INFO e-banking - Password Provided
+2020-12-08 19:24:20,068 [main] INFO e-banking - Username provided
+2020-12-08 19:24:20,167 [main] INFO e-banking - Password Provided
+2020-12-08 19:24:22,763 [main] INFO e-banking - Login Passed
+2020-12-08 19:24:59,486 [main] INFO e-banking - Chrome opened
+2020-12-08 19:25:05,145 [main] INFO e-banking - URL is opened
+2020-12-08 19:25:07,234 [main] INFO e-banking - Username provided
+2020-12-08 19:25:07,378 [main] INFO e-banking - Password Provided
+2020-12-08 19:25:12,344 [main] INFO e-banking - Username provided
+2020-12-08 19:25:12,431 [main] INFO e-banking - Password Provided
+2020-12-08 19:25:14,610 [main] INFO e-banking - Login Passed
+2020-12-08 19:30:29,252 [main] INFO e-banking - Chrome opened
+2020-12-08 19:30:33,978 [main] INFO e-banking - URL is opened
+2020-12-08 19:30:35,786 [main] INFO e-banking - Username provided
+2020-12-08 19:30:35,930 [main] INFO e-banking - Password Provided
+2020-12-08 19:32:47,232 [main] INFO e-banking - Login Passed
+2020-12-08 19:32:57,419 [main] INFO e-banking - Username provided
+2020-12-08 19:32:57,510 [main] INFO e-banking - Password Provided
+2020-12-08 19:33:02,514 [main] INFO e-banking - Login Passed
+2020-12-08 19:33:55,429 [main] INFO e-banking - Chrome opened
+2020-12-08 19:34:26,480 [main] INFO e-banking - URL is opened
+2020-12-08 19:41:22,765 [main] INFO e-banking - Chrome opened
+2020-12-08 19:41:24,964 [main] INFO e-banking - URL is opened
+2020-12-08 19:41:26,104 [main] INFO e-banking - Username provided
+2020-12-08 19:41:26,241 [main] INFO e-banking - Password Provided
+2020-12-08 19:41:37,484 [main] INFO e-banking - Username provided
+2020-12-08 19:41:37,594 [main] INFO e-banking - Password Provided
+2020-12-08 19:41:42,277 [main] INFO e-banking - Login Passed
+2020-12-08 19:50:03,594 [main] INFO e-banking - Firefox opened
+2020-12-08 19:50:32,286 [main] INFO e-banking - URL is opened
+2020-12-08 19:50:33,381 [main] INFO e-banking - Username provided
+2020-12-08 19:50:33,436 [main] INFO e-banking - Password Provided
+2020-12-08 19:50:41,294 [main] INFO e-banking - Username provided
+2020-12-08 19:50:41,371 [main] INFO e-banking - Password Provided
+2020-12-08 19:50:44,812 [main] INFO e-banking - Login Passed
+2020-12-08 19:54:20,063 [main] INFO e-banking - Firefox opened
+2020-12-08 19:54:47,932 [main] INFO e-banking - URL is opened
+2020-12-08 19:54:49,155 [main] INFO e-banking - Username provided
+2020-12-08 19:54:49,202 [main] INFO e-banking - Password Provided
+2020-12-08 19:54:53,842 [main] INFO e-banking - Username provided
+2020-12-08 19:54:53,889 [main] INFO e-banking - Password Provided
+2020-12-08 19:54:57,529 [main] INFO e-banking - Login Passed
+2020-12-08 20:01:36,737 [main] INFO e-banking - Firefox opened
+2020-12-08 20:01:53,828 [main] INFO e-banking - URL is opened
+2020-12-08 20:01:55,043 [main] INFO e-banking - Username provided
+2020-12-08 20:01:55,100 [main] INFO e-banking - Password Provided
+2020-12-08 20:02:00,011 [main] INFO e-banking - Username provided
+2020-12-08 20:02:00,152 [main] INFO e-banking - Password Provided
+2020-12-08 20:02:03,905 [main] INFO e-banking - Login Passed
+2020-12-08 20:05:31,332 [main] INFO e-banking - Firefox opened
+2020-12-08 20:05:45,767 [main] INFO e-banking - URL is opened
+2020-12-08 20:05:45,923 [main] INFO e-banking - Entered username
+2020-12-08 20:05:45,987 [main] INFO e-banking - Entered Password
+2020-12-08 20:08:08,621 [main] INFO e-banking - Firefox opened
+2020-12-08 20:08:36,748 [main] INFO e-banking - URL is opened
+2020-12-08 20:08:36,917 [main] INFO e-banking - Entered username
+2020-12-08 20:08:36,968 [main] INFO e-banking - Entered Password
+2020-12-08 20:09:03,704 [main] INFO e-banking - Chrome opened
+2020-12-08 20:09:06,199 [main] INFO e-banking - URL is opened
+2020-12-08 20:09:06,525 [main] INFO e-banking - Entered username
+2020-12-08 20:09:06,671 [main] INFO e-banking - Entered Password
+2020-12-08 20:09:09,287 [main] INFO e-banking - Login test Passed
+2020-12-08 20:12:28,421 [main] INFO e-banking - Chrome opened
+2020-12-08 20:12:31,937 [main] INFO e-banking - URL is opened
+2020-12-08 20:12:32,136 [main] INFO e-banking - Entered username
+2020-12-08 20:12:32,314 [main] INFO e-banking - Entered Password
+2020-12-08 20:12:37,208 [main] INFO e-banking - Login test Passed
+2020-12-08 20:13:02,711 [main] INFO e-banking - Chrome opened
+2020-12-08 20:13:05,350 [main] INFO e-banking - URL is opened
+2020-12-08 20:13:05,597 [main] INFO e-banking - Entered username
+2020-12-08 20:13:05,739 [main] INFO e-banking - Entered Password
+2020-12-08 20:13:17,893 [main] INFO e-banking - Login test Passed
+2020-12-08 20:15:23,109 [main] INFO e-banking - Chrome opened
+2020-12-08 20:15:25,189 [main] INFO e-banking - URL is opened
+2020-12-08 20:15:25,535 [main] INFO e-banking - Entered username
+2020-12-08 20:15:25,710 [main] INFO e-banking - Entered Password
+2020-12-08 20:15:37,034 [main] INFO e-banking - Login test Passed
+2020-12-08 20:17:25,801 [main] INFO e-banking - Chrome opened
+2020-12-08 20:18:20,821 [main] INFO e-banking - URL is opened
+2020-12-08 20:18:23,051 [main] INFO e-banking - Entered username
+2020-12-08 20:18:23,206 [main] INFO e-banking - Entered Password
+2020-12-08 20:24:37,316 [main] INFO e-banking - Chrome opened
+2020-12-08 20:24:40,677 [main] INFO e-banking - URL is opened
+2020-12-08 20:24:42,436 [main] INFO e-banking - Username provided
+2020-12-08 20:24:42,550 [main] INFO e-banking - Password Provided
+2020-12-08 20:25:48,522 [main] INFO e-banking - Chrome opened
+2020-12-08 20:25:51,125 [main] INFO e-banking - URL is opened
+2020-12-08 20:25:52,516 [main] INFO e-banking - Username provided
+2020-12-08 20:25:52,658 [main] INFO e-banking - Password Provided
+2020-12-08 20:25:53,723 [main] INFO e-banking - Switch button clicked
+2020-12-08 20:25:54,735 [main] INFO e-banking - Username provided
+2020-12-08 20:25:54,827 [main] INFO e-banking - Password Provided
+2020-12-08 20:25:56,084 [main] INFO e-banking - Switch button clicked
+2020-12-08 20:25:56,108 [main] INFO e-banking - Login Passed
+2020-12-08 21:48:49,337 [main] INFO e-banking - Chrome opened
+2020-12-08 21:48:52,537 [main] INFO e-banking - URL is opened
+2020-12-08 21:51:03,239 [main] INFO e-banking - Chrome opened
+2020-12-08 21:51:07,258 [main] INFO e-banking - URL is opened
+2020-12-10 15:06:54,638 [main] INFO e-banking - Chrome opened
+2020-12-10 15:06:57,373 [main] INFO e-banking - URL is opened
+2020-12-10 15:06:57,640 [main] INFO e-banking - Entered username
+2020-12-10 15:06:57,811 [main] INFO e-banking - Entered Password
+2020-12-10 15:07:29,721 [main] INFO e-banking - Login test Passed
+2020-12-10 15:07:33,865 [main] INFO e-banking - Chrome opened
+2020-12-10 15:07:36,936 [main] INFO e-banking - URL is opened
+2020-12-10 15:07:38,688 [main] INFO e-banking - Username provided
+2020-12-10 15:07:38,832 [main] INFO e-banking - Password Provided
+2020-12-10 15:07:39,516 [main] INFO e-banking - Switch button clicked
+2020-12-10 15:07:41,080 [main] INFO e-banking - Username provided
+2020-12-10 15:07:41,194 [main] INFO e-banking - Password Provided
+2020-12-10 15:07:44,018 [main] INFO e-banking - Switch button clicked
+2020-12-10 15:07:44,059 [main] INFO e-banking - Login Passed
+2020-12-10 15:08:09,560 [main] INFO e-banking - Chrome opened
+2020-12-10 15:08:15,506 [main] INFO e-banking - URL is opened
+2020-12-10 15:58:49,077 [main] INFO e-banking - Chrome opened
+2020-12-10 15:58:52,187 [main] INFO e-banking - URL is opened
+2020-12-10 15:58:52,395 [main] INFO e-banking - Entered username
+2020-12-10 15:58:52,530 [main] INFO e-banking - Entered Password
+2020-12-10 16:01:41,736 [main] INFO e-banking - Chrome opened
+2020-12-10 16:01:46,941 [main] INFO e-banking - URL is opened
+2020-12-10 16:01:47,212 [main] INFO e-banking - Entered username
+2020-12-10 16:01:47,360 [main] INFO e-banking - Entered Password
+2020-12-10 16:02:17,568 [main] INFO e-banking - Login test Passed
+2020-12-10 16:02:21,727 [main] INFO e-banking - Chrome opened
+2020-12-10 16:02:24,561 [main] INFO e-banking - URL is opened
+2020-12-10 16:04:11,244 [main] INFO e-banking - Chrome opened
+2020-12-10 16:04:13,717 [main] INFO e-banking - URL is opened
+2020-12-10 16:04:13,899 [main] INFO e-banking - Entered username
+2020-12-10 16:04:14,008 [main] INFO e-banking - Entered Password
+2020-12-10 16:04:46,701 [main] INFO e-banking - Login test Passed
+2020-12-10 16:04:50,936 [main] INFO e-banking - Chrome opened
+2020-12-10 16:04:54,487 [main] INFO e-banking - URL is opened
+2020-12-10 16:04:55,762 [main] INFO e-banking - Username provided
+2020-12-10 16:04:55,883 [main] INFO e-banking - Password Provided
+2020-12-10 16:04:56,642 [main] INFO e-banking - Switch button clicked
+2020-12-10 16:04:57,745 [main] INFO e-banking - Username provided
+2020-12-10 16:04:57,903 [main] INFO e-banking - Password Provided
+2020-12-10 16:04:58,003 [main] INFO e-banking - Switch button clicked
+2020-12-10 16:04:58,422 [main] INFO e-banking - Login Passed
+2020-12-10 16:05:23,692 [main] INFO e-banking - Chrome opened
+2020-12-10 16:05:27,930 [main] INFO e-banking - URL is opened
+2020-12-10 16:08:40,068 [main] INFO e-banking - Chrome opened
+2020-12-10 16:08:43,455 [main] INFO e-banking - URL is opened
+2020-12-10 16:08:45,343 [main] INFO e-banking - Username provided
+2020-12-10 16:08:45,484 [main] INFO e-banking - Password Provided
+2020-12-10 16:08:46,726 [main] INFO e-banking - Switch button clicked
+2020-12-10 16:08:46,803 [main] INFO e-banking - Login Passed
+2020-12-10 16:09:11,563 [main] INFO e-banking - Username provided
+2020-12-10 16:09:11,667 [main] INFO e-banking - Password Provided
+2020-12-10 16:09:11,764 [main] INFO e-banking - Switch button clicked
+2020-12-10 16:09:12,121 [main] INFO e-banking - Login Passed
+2020-12-10 16:11:07,404 [main] INFO e-banking - Chrome opened
+2020-12-10 16:11:10,138 [main] INFO e-banking - URL is opened
+2020-12-10 16:11:11,816 [main] INFO e-banking - Username provided
+2020-12-10 16:11:11,964 [main] INFO e-banking - Password Provided
+2020-12-10 16:11:12,457 [main] INFO e-banking - Submit button clicked
+2020-12-10 16:11:17,259 [main] INFO e-banking - Username provided
+2020-12-10 16:11:17,376 [main] INFO e-banking - Password Provided
+2020-12-10 16:11:19,622 [main] INFO e-banking - Submit button clicked
+2020-12-10 16:11:19,641 [main] INFO e-banking - Login Passed
+2020-12-10 16:11:20,299 [main] INFO e-banking - Logout button clicked
+2020-12-10 16:14:14,091 [main] INFO e-banking - Chrome opened
+2020-12-10 16:14:17,092 [main] INFO e-banking - URL is opened
+2020-12-10 16:14:18,968 [main] INFO e-banking - Username provided
+2020-12-10 16:14:19,126 [main] INFO e-banking - Password Provided
+2020-12-10 16:14:19,939 [main] INFO e-banking - Submit button clicked
+2020-12-10 16:14:24,874 [main] INFO e-banking - Username provided
+2020-12-10 16:14:24,964 [main] INFO e-banking - Password Provided
+2020-12-10 16:14:26,543 [main] INFO e-banking - Submit button clicked
+2020-12-10 16:14:26,567 [main] INFO e-banking - Login Passed
+2020-12-10 16:14:30,348 [main] INFO e-banking - Logout button clicked
+2020-12-10 16:22:13,478 [main] INFO e-banking - Chrome opened
+2020-12-10 16:22:16,752 [main] INFO e-banking - URL is opened
+2020-12-10 16:22:18,492 [main] INFO e-banking - Username provided
+2020-12-10 16:22:18,672 [main] INFO e-banking - Password Provided
+2020-12-10 16:22:20,090 [main] INFO e-banking - Submit button clicked
+2020-12-10 16:22:24,509 [main] INFO e-banking - Username provided
+2020-12-10 16:22:24,732 [main] INFO e-banking - Password Provided
+2020-12-10 16:22:26,707 [main] INFO e-banking - Submit button clicked
+2020-12-10 16:22:29,731 [main] INFO e-banking - Login Passed
+2020-12-10 16:22:33,712 [main] INFO e-banking - Logout button clicked
+2020-12-10 16:22:38,579 [main] INFO e-banking - Username provided
+2020-12-10 16:22:38,660 [main] INFO e-banking - Password Provided
+2020-12-10 16:22:38,734 [main] INFO e-banking - Submit button clicked
+2020-12-10 16:22:41,748 [main] INFO e-banking - Login Passed
+2020-12-10 16:22:54,889 [main] INFO e-banking - Username provided
+2020-12-10 16:22:54,961 [main] INFO e-banking - Password Provided
+2020-12-10 16:22:55,372 [main] INFO e-banking - Submit button clicked
+2020-12-10 16:24:47,311 [main] INFO e-banking - Chrome opened
+2020-12-10 16:24:51,093 [main] INFO e-banking - URL is opened
+2020-12-10 16:25:35,580 [main] INFO e-banking - Chrome opened
+2020-12-10 16:25:41,809 [main] INFO e-banking - URL is opened
+2020-12-10 16:27:43,370 [main] INFO e-banking - Chrome opened
+2020-12-10 16:27:47,352 [main] INFO e-banking - URL is opened
+2020-12-10 16:30:30,015 [main] INFO e-banking - Chrome opened
+2020-12-10 16:32:09,273 [main] INFO e-banking - Chrome opened
+2020-12-10 16:32:11,915 [main] INFO e-banking - URL is opened
+2020-12-10 16:32:12,929 [main] INFO e-banking - Username provided
+2020-12-10 16:32:13,069 [main] INFO e-banking - Password Provided
+2020-12-10 16:32:13,841 [main] INFO e-banking - Submit button clicked
+2020-12-10 16:32:17,995 [main] INFO e-banking - Username provided
+2020-12-10 16:32:18,142 [main] INFO e-banking - Password Provided
+2020-12-10 16:32:19,611 [main] INFO e-banking - Submit button clicked
+2020-12-10 16:32:22,753 [main] INFO e-banking - Login Passed
+2020-12-10 16:32:27,171 [main] INFO e-banking - Logout button clicked
+2020-12-10 16:43:47,491 [main] INFO e-banking - Chrome opened
+2020-12-10 16:43:52,053 [main] INFO e-banking - URL is opened
+2020-12-10 16:43:55,537 [main] INFO e-banking - Username provided
+2020-12-10 16:43:55,692 [main] INFO e-banking - Password Provided
+2020-12-10 16:43:55,850 [main] INFO e-banking - Submit button clicked
+2020-12-10 16:44:00,381 [main] INFO e-banking - Username provided
+2020-12-10 16:44:00,488 [main] INFO e-banking - Password Provided
+2020-12-10 16:44:01,956 [main] INFO e-banking - Submit button clicked
+2020-12-10 16:44:04,989 [main] INFO e-banking - Login Passed
+2020-12-10 16:44:09,224 [main] INFO e-banking - Logout button clicked
+2020-12-10 16:44:13,853 [main] INFO e-banking - Username provided
+2020-12-10 16:44:13,938 [main] INFO e-banking - Password Provided
+2020-12-10 16:44:14,339 [main] INFO e-banking - Submit button clicked
+2020-12-10 16:44:18,745 [main] INFO e-banking - Username provided
+2020-12-10 16:44:18,851 [main] INFO e-banking - Password Provided
+2020-12-10 16:44:20,064 [main] INFO e-banking - Submit button clicked
+2020-12-10 16:44:23,078 [main] INFO e-banking - Login Passed
+2020-12-10 16:44:26,873 [main] INFO e-banking - Logout button clicked
+2020-12-10 17:00:11,009 [main] INFO e-banking - Chrome opened
+2020-12-10 17:00:13,801 [main] INFO e-banking - URL is opened
+2020-12-10 17:00:14,038 [main] INFO e-banking - Entered username
+2020-12-10 17:00:14,173 [main] INFO e-banking - Entered Password
+2020-12-10 17:00:46,031 [main] INFO e-banking - Login test Passed
+2020-12-10 17:00:49,970 [main] INFO e-banking - Chrome opened
+2020-12-10 17:00:52,879 [main] INFO e-banking - URL is opened
+2020-12-10 17:00:54,853 [main] INFO e-banking - Username provided
+2020-12-10 17:00:54,995 [main] INFO e-banking - Password Provided
+2020-12-10 17:00:55,539 [main] INFO e-banking - Submit button clicked
+2020-12-10 17:01:00,208 [main] INFO e-banking - Username provided
+2020-12-10 17:01:00,306 [main] INFO e-banking - Password Provided
+2020-12-10 17:01:01,604 [main] INFO e-banking - Submit button clicked
+2020-12-10 17:01:04,676 [main] INFO e-banking - Login Passed
+2020-12-10 17:01:08,846 [main] INFO e-banking - Logout button clicked
+2020-12-10 17:01:13,450 [main] INFO e-banking - Username provided
+2020-12-10 17:01:13,543 [main] INFO e-banking - Password Provided
+2020-12-10 17:01:14,247 [main] INFO e-banking - Submit button clicked
+2020-12-10 17:01:18,834 [main] INFO e-banking - Username provided
+2020-12-10 17:01:18,930 [main] INFO e-banking - Password Provided
+2020-12-10 17:01:20,207 [main] INFO e-banking - Submit button clicked
+2020-12-10 17:01:23,227 [main] INFO e-banking - Login Passed
+2020-12-10 17:01:27,170 [main] INFO e-banking - Logout button clicked
+2020-12-10 17:01:35,663 [main] INFO e-banking - Chrome opened
+2020-12-10 17:01:39,006 [main] INFO e-banking - URL is opened
+2020-12-10 17:01:51,612 [main] INFO e-banking - Customer details added
+2020-12-10 17:01:59,685 [main] INFO e-banking - Validation Started....
+2020-12-10 17:03:43,816 [main] INFO e-banking - Chrome opened
+2020-12-10 17:03:48,748 [main] INFO e-banking - URL is opened
+2020-12-10 17:03:50,991 [main] INFO e-banking - Entered username
+2020-12-10 17:03:51,258 [main] INFO e-banking - Entered Password
+2020-12-10 17:04:21,396 [main] INFO e-banking - Login test Passed
+2020-12-10 17:04:25,507 [main] INFO e-banking - Chrome opened
+2020-12-10 17:04:28,852 [main] INFO e-banking - URL is opened
+2020-12-10 17:04:30,275 [main] INFO e-banking - Username provided
+2020-12-10 17:04:31,071 [main] INFO e-banking - Password Provided
+2020-12-10 17:04:31,756 [main] INFO e-banking - Submit button clicked
+2020-12-10 17:04:41,768 [main] INFO e-banking - Username provided
+2020-12-10 17:04:41,899 [main] INFO e-banking - Password Provided
+2020-12-10 17:04:41,979 [main] INFO e-banking - Submit button clicked
+2020-12-10 17:04:45,002 [main] INFO e-banking - Login Passed
+2020-12-10 17:04:49,865 [main] INFO e-banking - Logout button clicked
+2020-12-10 17:04:57,117 [main] INFO e-banking - Username provided
+2020-12-10 17:04:57,205 [main] INFO e-banking - Password Provided
+2020-12-10 17:04:59,224 [main] INFO e-banking - Submit button clicked
+2020-12-10 17:05:04,373 [main] INFO e-banking - Username provided
+2020-12-10 17:05:04,464 [main] INFO e-banking - Password Provided
+2020-12-10 17:05:15,835 [main] INFO e-banking - Submit button clicked
+2020-12-10 17:05:18,847 [main] INFO e-banking - Login Passed
+2020-12-10 17:05:23,098 [main] INFO e-banking - Logout button clicked
+2020-12-10 17:05:31,797 [main] INFO e-banking - Chrome opened
+2020-12-10 17:05:34,761 [main] INFO e-banking - URL is opened
+2020-12-10 17:05:47,309 [main] INFO e-banking - Customer details added
+2020-12-10 17:05:55,267 [main] INFO e-banking - Validation Started....
+2020-12-10 17:07:27,979 [main] INFO e-banking - Chrome opened
+2020-12-10 17:07:39,312 [main] INFO e-banking - URL is opened
+2020-12-10 17:07:39,517 [main] INFO e-banking - Entered username
+2020-12-10 17:07:39,643 [main] INFO e-banking - Entered Password
+2020-12-10 17:08:12,950 [main] INFO e-banking - Login test Passed
+2020-12-10 17:08:16,961 [main] INFO e-banking - Chrome opened
+2020-12-10 17:08:19,311 [main] INFO e-banking - URL is opened
+2020-12-10 17:08:20,457 [main] INFO e-banking - Username provided
+2020-12-10 17:08:20,557 [main] INFO e-banking - Password Provided
+2020-12-10 17:08:21,109 [main] INFO e-banking - Submit button clicked
+2020-12-10 17:08:29,081 [main] INFO e-banking - Username provided
+2020-12-10 17:08:29,186 [main] INFO e-banking - Password Provided
+2020-12-10 17:08:29,256 [main] INFO e-banking - Submit button clicked
+2020-12-10 17:08:34,281 [main] INFO e-banking - Login Passed
+2020-12-10 17:08:38,901 [main] INFO e-banking - Logout button clicked
+2020-12-10 17:09:06,697 [main] INFO e-banking - Chrome opened
+2020-12-10 17:09:09,734 [main] INFO e-banking - URL is opened
+2020-12-10 17:09:21,569 [main] INFO e-banking - Customer details added
+2020-12-10 17:09:29,699 [main] INFO e-banking - Validation Started....
+2020-12-10 17:12:14,860 [main] INFO e-banking - Chrome opened
+2020-12-10 17:12:18,121 [main] INFO e-banking - URL is opened
+2020-12-10 17:12:18,347 [main] INFO e-banking - Entered username
+2020-12-10 17:12:18,509 [main] INFO e-banking - Entered Password
+2020-12-10 17:12:50,406 [main] INFO e-banking - Login test Passed
+2020-12-10 17:12:54,545 [main] INFO e-banking - Chrome opened
+2020-12-10 17:12:57,267 [main] INFO e-banking - URL is opened
+2020-12-10 17:12:58,816 [main] INFO e-banking - Username provided
+2020-12-10 17:12:58,956 [main] INFO e-banking - Password Provided
+2020-12-10 17:12:59,492 [main] INFO e-banking - Submit button clicked
+2020-12-10 17:13:03,672 [main] INFO e-banking - Username provided
+2020-12-10 17:13:03,768 [main] INFO e-banking - Password Provided
+2020-12-10 17:13:05,418 [main] INFO e-banking - Submit button clicked
+2020-12-10 17:13:08,459 [main] INFO e-banking - Login Passed
+2020-12-10 17:13:13,042 [main] INFO e-banking - Logout button clicked
+2020-12-10 17:13:17,244 [main] INFO e-banking - Username provided
+2020-12-10 17:13:17,338 [main] INFO e-banking - Password Provided
+2020-12-10 17:13:18,008 [main] INFO e-banking - Submit button clicked
+2020-12-10 17:13:23,221 [main] INFO e-banking - Username provided
+2020-12-10 17:13:23,315 [main] INFO e-banking - Password Provided
+2020-12-10 17:13:24,442 [main] INFO e-banking - Submit button clicked
+2020-12-10 17:13:27,462 [main] INFO e-banking - Login Passed
+2020-12-10 17:13:31,138 [main] INFO e-banking - Logout button clicked
+2020-12-10 17:13:39,421 [main] INFO e-banking - Chrome opened
+2020-12-10 17:13:45,303 [main] INFO e-banking - URL is opened
+2020-12-10 17:13:57,186 [main] INFO e-banking - Customer details added
+2020-12-10 17:14:06,562 [main] INFO e-banking - Validation Started....
+2020-12-10 17:14:09,646 [main] INFO e-banking - Test case passed....
+2020-12-10 17:16:11,229 [main] INFO e-banking - Chrome opened
+2020-12-10 17:16:15,061 [main] INFO e-banking - URL is opened
+2020-12-10 17:16:18,164 [main] INFO e-banking - Username provided
+2020-12-10 17:16:18,590 [main] INFO e-banking - Password Provided
+2020-12-10 17:16:19,104 [main] INFO e-banking - Submit button clicked
+2020-12-10 17:16:23,193 [main] INFO e-banking - Username provided
+2020-12-10 17:16:23,342 [main] INFO e-banking - Password Provided
+2020-12-10 17:16:23,766 [main] INFO e-banking - Submit button clicked
+2020-12-10 17:46:25,589 [main] INFO e-banking - Chrome opened
+2020-12-10 17:46:28,702 [main] INFO e-banking - URL is opened
+2020-12-10 17:46:28,964 [main] INFO e-banking - Entered username
+2020-12-10 17:46:29,149 [main] INFO e-banking - Entered Password
+2020-12-10 17:47:01,294 [main] INFO e-banking - Login test Passed
+2020-12-10 17:47:05,518 [main] INFO e-banking - Chrome opened
+2020-12-10 17:47:07,981 [main] INFO e-banking - URL is opened
+2020-12-10 17:47:19,807 [main] INFO e-banking - Customer details added
+2020-12-10 17:47:28,925 [main] INFO e-banking - Validation Started....
+2020-12-10 17:47:31,993 [main] INFO e-banking - Test case passed....
+2020-12-10 18:10:50,799 [main] INFO e-banking - Chrome opened
+2020-12-10 18:10:53,663 [main] INFO e-banking - URL is opened
+2020-12-10 18:10:53,884 [main] INFO e-banking - Entered username
+2020-12-10 18:10:54,029 [main] INFO e-banking - Entered Password
+2020-12-10 18:11:28,051 [main] INFO e-banking - Login test Passed
+2020-12-10 18:11:32,094 [main] INFO e-banking - Chrome opened
+2020-12-10 18:11:35,994 [main] INFO e-banking - URL is opened
+2020-12-10 18:11:47,785 [main] INFO e-banking - Customer details added
+2020-12-10 18:11:56,192 [main] INFO e-banking - Validation Started....
+2020-12-10 18:12:51,324 [main] INFO e-banking - Chrome opened
+2020-12-10 18:12:57,044 [main] INFO e-banking - URL is opened
+2020-12-10 18:12:57,302 [main] INFO e-banking - Entered username
+2020-12-10 18:12:57,449 [main] INFO e-banking - Entered Password
+2020-12-10 18:13:27,561 [main] INFO e-banking - Login test Passed
+2020-12-10 18:13:31,717 [main] INFO e-banking - Chrome opened
+2020-12-10 18:13:34,304 [main] INFO e-banking - URL is opened
+2020-12-10 18:13:46,998 [main] INFO e-banking - Customer details added
+2020-12-10 18:13:56,503 [main] INFO e-banking - Validation Started....
+2020-12-10 18:13:59,579 [main] INFO e-banking - Test case passed....
+2020-12-10 18:26:28,968 [main] INFO e-banking - Chrome opened
+2020-12-10 18:26:36,595 [main] INFO e-banking - URL is opened
+2020-12-10 18:26:36,778 [main] INFO e-banking - Entered username
+2020-12-10 18:26:36,874 [main] INFO e-banking - Entered Password
+2020-12-10 18:27:07,005 [main] INFO e-banking - Login test Passed
+2020-12-10 18:27:11,033 [main] INFO e-banking - Chrome opened
+2020-12-10 18:27:14,535 [main] INFO e-banking - URL is opened
+2020-12-10 18:27:30,184 [main] INFO e-banking - Customer details added
+2020-12-10 18:27:42,235 [main] INFO e-banking - Validation Started....
+2020-12-10 18:27:45,302 [main] INFO e-banking - Test case passed....
+2020-12-12 22:30:26,046 [main] INFO e-banking - Chrome opened
+2020-12-12 22:31:23,920 [main] INFO e-banking - URL is opened
+2020-12-13 17:23:11,159 [main] INFO e-banking - Chrome opened
+2020-12-13 17:23:18,735 [main] INFO e-banking - URL is opened
+2020-12-13 17:23:19,758 [main] INFO e-banking - Entered username
+2020-12-13 17:23:19,854 [main] INFO e-banking - Entered Password
+2020-12-13 17:23:50,519 [main] INFO e-banking - Login test Passed
+2020-12-13 17:23:54,366 [main] INFO e-banking - Chrome opened
+2020-12-13 17:24:01,615 [main] INFO e-banking - URL is opened
+2020-12-13 17:24:14,273 [main] INFO e-banking - Customer details added
+2020-12-13 17:24:23,109 [main] INFO e-banking - Validation Started....
+2020-12-13 17:24:26,176 [main] INFO e-banking - Test case passed....
